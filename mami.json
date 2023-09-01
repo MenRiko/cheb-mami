@@ -1,1 +1,560 @@
+{
+   "AdsManager":{
+      "adNetwork" :"admob",
+      "interstitial_admob":"ca-app-pub-9322101337669156/8016236605",
+      "banner_admob":"ca-app-pub-9322101337669156/9272961035",
+      "native_admob":"ca-app-pub-9322101337669156/2118571573",
 
+      "interstitial_fan":"IMG_16_9_APP_INSTALL#465986095404427_474869491182754",
+      "banner_fan":"IMG_16_9_APP_INSTALL#465986095404427_474834121186291",
+      "native_fan":"IMG_16_9_APP_INSTALL#465986095404427_474850511184652"
+   },
+   "Songs" :[
+      {
+         "song_name":"01. Ouach Etsalini",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=33490",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+      {
+         "song_name":"02. Idha Enti Bikit",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=33491",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+      {
+         "song_name":"03. Sehrane Ouahdi",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=33492",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"04. Douni El Bladi",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=33493",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"05. Ghalia Mahboubit Galbi",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=33494",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"06. Ana Mazel",
+         "artist":"Cheb Mamir",
+         "song_link":"https://www.nozika.co/down.php?s_id=33495",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"07. Tayo Tayo Adiani",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=33496",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"08. Lazrag Saani",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=33497",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"09. Mani Sabar",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=33498",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"10. Madiriche Aliya",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=33499",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"11. Ha Dellali",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=33500",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"12. Loumek",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=33501",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"13. Maniche Aadouk",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=33502",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"14. Ma Tebkich",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=33503",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"15. Kobbi Kobbi",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=33504",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"16. Alache Alache",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=40361",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"17. Baida",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=40361",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"18. Bent Bareh",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=40363",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"19. Ghi NTi",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=40364",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"20. Gualbak Kssah",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=40365",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"21. Hay Wadi Hay Galbi",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=40366",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"22. Hbabi",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=40367",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"23. Li Fet Ghi Mnem",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=40368",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"24. Ma Ma",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=40369",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"25. Trab",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=40370",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"26. Zouaji",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=40371",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"27. Ana Oualache",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=42140",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"28. Halili Feat Elissa",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=42141",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"29. Moonrise Feat Nina Rocha",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=42142",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"30. Ajlissou Fil Makha Feat Kadim Al Sahir",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=42143",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"31. Dertha Feat Ice T Steven Seagal",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=42144",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"32. Changeons De Mentalite Feat Ismael Lo",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=42145",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"33. Azwaw Alternative Mix",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=42146",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"34. Blaadi",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=42147",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"35. tza3za3 khatri",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=42148",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"36. Mada Bia",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=42150",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"37. A3lach raki hakda",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=42151",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"38. Ah Ya Chani",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=42152",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"39. Allez Les Africains ",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=42153",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"40. Au Pays Des Merveilles (Azwaw)",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=42154",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"41. Belimine",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=42157",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"42. Chrikti Talia ",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=42158",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"43. Cosi Celeste Feat Zucchero",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=42159",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"44. Derti Jauline",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=42160",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"45. Desert Rose Feat Sting",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=42161",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"46. Douha Alia Live",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=42162",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"47. Ellie Beina Intaha",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=42163",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"48. Everlasting Feat George Dalaras",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=42164",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"49. Il Voyage En Solitaire",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=42167",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"50. Ila Atawek Lia",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=42168",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"51. Je taime",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=42169",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"52. Khalouni Nebki",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=42170",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"53. Loumek A Zahri",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=42172",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"54. Ma Tebkich",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=42173",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"55. Ma Vie 2 Fois",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=42174",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"56. Maandi Haja Fenasse",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=42175",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"57. Mahchemti Masouelti",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=42176",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"58. Majin Jet",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=42177",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"59. Non C Sera Non Feat Sheen",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=42179",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"60. Noudou Maana",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=42182",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"61. Omri madanite",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=42183",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"62. Saha Ya Saha",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=42185",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"63. Sahrane Ouahdi",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=42186",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"64. Viens Habibi One World Mix ",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=42187",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"65. Ya Lela Ya Lela",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=42189",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"66. Yak Nta Wald Sahra",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=42190",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"67. bent el colonile",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=42193",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"68. houbi louele",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=42195",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"69. rah lelbayda",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=42196",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"70. yoyo",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=42198",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"71. Ana Khatini",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=424",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"72. Ana Mazal",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=425",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"73. Azwaw",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=426",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"74. Bent El Bareh",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=427",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"75. Douh Aliya",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=428",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"76. El Maktoub Marad",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=429",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"77. Fatma",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=430",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"78. Ghir El Beyda Wana",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=431",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"79. Hey Galbi Hey Wedi",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=434",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"80. La Faute Fiya",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=435",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"81. Le Rai Cest Chic",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=436",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"82. Lebnet Hadjou",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=437",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"83. Li Fet Ghir Mneme",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=438",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"84. Maandi Walli",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=439",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"85. Madhanite",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=440",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"86. Nedik Ghir Entiya",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=442",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"87. Sidi Elttaleb" ,
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=444"",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"88. Waalach TLoumouh",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=445",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"89. Waalache Kakda",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=446",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"90. Yahamami",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=447",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"91. Youm Wara Youm",
+         "artist":"Cheb Mami",
+         "song_link":"https://www.nozika.co/down.php?s_id=448",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      }
+   ]
+}
